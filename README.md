@@ -1,2 +1,2 @@
-# sql_python_personnal_experiments
-SQLalchemy personnal experiments
+# sql_python_experiments
+A personnal SQLalchemy cheat sheet of code i use in my projects.
